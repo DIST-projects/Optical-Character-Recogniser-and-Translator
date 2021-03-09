@@ -11,7 +11,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from .model.modules import vgg16_bn, init_weights #Need to install modules for maxpooling  
+from .model.modules import vgg16_bn, init_weights #Need to install modules for maxpooling to get proper detection in our case
 
 class double_conv(nn.Module):
     def __init__(self, in_ch, mid_ch, out_ch):
