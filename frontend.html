@@ -1,7 +1,10 @@
-<!DOCTYPE html>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta charset="ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Optimal Character Recognizer</title>
 <style>
 .image-preview {
@@ -29,18 +32,17 @@
 	<a>Upload a file </a>
 	<br>
 	<br>
-	<form action="fileupload.jsp" method="post"
-		enctype="multipart/from-data">
-		<input type="file" name="inpfile" id="inpfile" size="50">
+	<form action="uploadFile" method="post" enctype="multipart/form-data">
+		<input type="file" name="uploadFile" id="uploadFile">
 		<div class="image-preview" id="imagepreview">
 			<img src="" alt="Image Preview" class="image-preview__image"> <span
 				class="image-preview__default-text"> Image Preview </span>
 		</div>
 		<br>
-		<br> <input type="submit" value="upload file">
+		<br> <input type="submit" value="upload">
 	</form>
 	<script>
-		const inpFile = document.getElementById("inpfile");
+		const inpFile = document.getElementById("uploadFile");
 		const previewContainer = document.getElementById("imagepreview");
 		const previewImage = previewContainer
 				.querySelector(".image-preview__image");
