@@ -7,6 +7,16 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Optimal Character Recognizer</title>
 <style>
+h1 {
+text-align: center;
+}
+p {
+text-align: center;
+}
+form { 
+margin: 0 auto; 
+width:250px;
+}
 .image-preview {
 	width: 300px;
 	min-height: 100px;
@@ -25,11 +35,11 @@
 }
 </style>
 </head>
-<body>
+<body bgcolor="lightblue">
 	<br>
 	<br>
 	<h1>Optimal Character Recognizer</h1>
-	<a>Upload a file </a>
+	<p>Upload a file </p>
 	<br>
 	<br>
 	<form action="uploadFile" method="post" enctype="multipart/form-data">
@@ -39,7 +49,7 @@
 				class="image-preview__default-text"> Image Preview </span>
 		</div>
 		<br>
-		<br> <input type="submit" value="upload">
+		<br> <input type="submit" value="Upload">
 	</form>
 	<script>
 		const inpFile = document.getElementById("uploadFile");
