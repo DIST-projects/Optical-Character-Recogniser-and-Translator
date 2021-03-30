@@ -7,8 +7,8 @@ The project enables the user to take a picture and upload it onto the web applic
  For Recognition we use CRNN (Convolutional Recurrant Neural Network) [Research paper on CRNN architecture](https://arxiv.org/pdf/1702.06286).
  The CRNN consists of ResNet for feature extraction, LSTM for generating prediction sequences and CTC loss funtion to calculate loss.
 
-## Machine Transliteration
- For Machine Transliteration we convert hindi text to corresponding english text.
+## Machine Translation
+ For Machine Translation, we convert hindi text to corresponding english text using an API developed to take the text from our recogition CRNN algorithm and obtain its translated desired output.
 
 ## Web application
   Building a proper UI at the frontend and employ Transfer Learning by embedding the pre-trained model onto the web app.
