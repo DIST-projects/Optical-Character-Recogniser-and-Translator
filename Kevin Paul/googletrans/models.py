@@ -32,5 +32,4 @@ class Detected:
         return self.__unicode__()
 
     def __unicode__(self):  
-        return u'Detected(lang={lang}, confidence={confidence})'.format(
-            lang=self.lang, confidence=self.confidence)
+        return u'Detected(lang={lang}, confidence={confidence})'.format(lang=self.lang, confidence=self.confidence)
