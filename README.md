@@ -10,8 +10,8 @@ The project enables the user to take a picture and upload it onto the web applic
 ## Machine Translation
  For Machine Translation, we convert hindi text to corresponding english text using an API developed to take the text from our recogition CRNN algorithm and obtain its translated desired output.
 
-## Web application
-  Building a proper UI at the frontend and employ Transfer Learning by embedding the pre-trained model onto the web app.
+## Mobile application
+  To Build a mobile application using Flutter with an interactive UI and deploy the pre-trained models for efficient and robust output.
 
 
 
