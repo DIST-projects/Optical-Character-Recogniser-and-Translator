@@ -8,10 +8,10 @@ The project enables the user to take a picture and upload it onto the web applic
  The CRNN consists of ResNet for feature extraction, LSTM for generating prediction sequences and CTC loss funtion to calculate loss.
 
 ## Machine Translation
- For Machine Translation, we convert Hindi Indic text to corresponding English text using an custom made API developed to take the text from our recogition CRNN algorithm and uses the entrusted GToken key which obtains a ticket mechanism to obtain its translated desired output. Once the key is obtained, translation can be done with any textual input with accurate outputs being immediately obtained.
+ For Machine Translation, we convert Hindi Indic text to corresponding English text using an custom made API developed to take the text from our recogition CRNN algorithm and uses the entrusted GToken key which obtains a ticket mechanism to obtain its translated desired output. Once the key is obtained, translation can be done with any textual input with accurate outputs being immediately received.
 
 ## Mobile application
-  To Build a mobile application using Flutter with an interactive UI and deploy the pre-trained models for efficient and robust output. The plan is to embed our Machine Learning Model along with our translation algorithm to otain a convenient and user enhanced experience which is quick, robust and accurate with its output.
+  To Build a mobile application using Flutter with an interactive UI and deploy the pre-trained models for efficient and robust output. The plan is to embed our Machine Learning Model along with our translation algorithm to create a convenient and user enhanced experience which is quick, robust and accurate with its output.
 
 
 
