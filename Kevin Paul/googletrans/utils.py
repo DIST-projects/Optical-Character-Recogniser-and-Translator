@@ -1,7 +1,6 @@
 import json
 import re
 
-
 def build_params(query, src, dest, token, override):
     params = {
         'client': 'webapp',
