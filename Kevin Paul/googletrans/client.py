@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-A Translation module.
 
-You can translate text using this module.
-"""
 import random
 import typing
 
@@ -23,33 +18,7 @@ EXCLUDES = ('en', 'ca', 'fr')
 
 
 class Translator:
-    """Google Translate ajax API implementation class
-
-    You have to create an instance of Translator to use this API
-
-    :param service_urls: google translate url list. URLs will be used randomly.
-                         For example ``['translate.google.com', 'translate.google.co.kr']``
-    :type service_urls: a sequence of strings
-
-    :param user_agent: the User-Agent header to send when making requests.
-    :type user_agent: :class:`str`
-
-    :param proxies: proxies configuration.
-                    Dictionary mapping protocol or protocol and host to the URL of the proxy
-                    For example ``{'http': 'foo.bar:3128', 'http://host.name': 'foo.bar:4012'}``
-    :type proxies: dictionary
-
-    :param timeout: Definition of timeout for httpx library.
-                    Will be used for every request.
-    :type timeout: number or a double of numbers
-||||||| constructed merge base
-    :param proxies: proxies configuration.
-                    Dictionary mapping protocol or protocol and host to the URL of the proxy
-                    For example ``{'http': 'foo.bar:3128', 'http://host.name': 'foo.bar:4012'}``
-    :param raise_exception: if `True` then raise exception if smth will go wrong
-    :type raise_exception: boolean
-    """
-
+   
     def __init__(self, service_urls=None, user_agent=DEFAULT_USER_AGENT,
                  raise_exception=DEFAULT_RAISE_EXCEPTION,
                  proxies: typing.Dict[str, httpcore.SyncHTTPTransport] = None, timeout: Timeout = None):
@@ -186,8 +155,7 @@ class Translator:
 
         extra_data = self._parse_extra_data(data)
 
-        # actual source language that will be recognized by Google Translator when the
-        # src passed is equal to auto.
+     
         try:
             src = data[2]
         except Exception:  # pragma: nocover
@@ -254,8 +222,7 @@ class Translator:
 
         data = self._translate(text, 'en', 'auto', kwargs)
 
-        # actual source language that will be recognized by Google Translator when the
-        # src passed is equal to auto.
+      
         src = ''
         confidence = 0.0
         try:
