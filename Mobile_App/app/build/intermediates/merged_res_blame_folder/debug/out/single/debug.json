@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_1.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\background_1.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_app_name_4.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\white_app_name_4.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img2.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img2.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab2.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\tab2.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload_.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\activity_upload_.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_final_logo.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\new_final_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img2_3.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img2_3.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_active_background.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\indicator_active_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_item_container.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\slide_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_introductory.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\activity_introductory.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_bg_1.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\nav_bg_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_star_rating.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\background_star_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inverse_logo_4.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\inverse_logo_4.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedback.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img2_1.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img2_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_1.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\bg_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img1_1.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img1.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img1.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qutub_minar.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\qutub_minar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_bg.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\navigation_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_page_separator.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\about_page_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_monument.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\monument.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_on_boarding_3.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_on_boarding_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_receive.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\receive.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inverse_logo.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\inverse_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_icon_email.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\about_icon_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_2.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\bg_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gateway.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\gateway.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_app_name.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\white_app_name.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_3.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\bg_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wait.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_upload.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_taj_mahal.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\taj_mahal.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\raw_splash.json.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\raw\\splash.json"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_bg_3.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\nav_bg_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_container_layout.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\item_container_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_outer_background.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\icon_outer_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_6.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\bg_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab3.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\tab3.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img3.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img3.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img2_4.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img2_4.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_menu_imageslider.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\menu\\navigation_menu_imageslider.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img3_1.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img3_1.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uploading.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\uploading.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inverse_logo_1.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\inverse_logo_1.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_5.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\bg_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_help.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_on_boarding_1.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_on_boarding_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_us.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_levi.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\levi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_konark_sun_temple.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\konark_sun_temple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upload.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_onboarding_item_container.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\onboarding_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_explore.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_click.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\click.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_pager_background.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\view_pager_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\navigation\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img2_2.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\img2_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_right.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_icon_link.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\about_icon_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_on_boarding_2.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_on_boarding_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_app_name_2.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\white_app_name_2.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_page.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\about_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab1.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\tab1.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_monuments.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\fragment_monuments.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inverse_logo_2.png.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\inverse_logo_2.png"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_4.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\bg_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_bg_2.jpg.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\nav_bg_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_inactive_background.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\drawable\\indicator_inactive_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_navigation_header.xml.flat",
+        "source": "C:\\Users\\leafl\\Desktop\\Apps\\Navigation_drawer\\app\\src\\main\\res\\layout\\layout_navigation_header.xml"
+    }
+]

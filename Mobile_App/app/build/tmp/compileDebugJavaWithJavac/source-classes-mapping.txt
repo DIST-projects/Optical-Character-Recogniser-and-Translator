@@ -1,0 +1,47 @@
+com/example/myapplication/ProfileFragment1.java
+ com.example.myapplication.ProfileFragment1
+com/example/myapplication/TravelLocationsAdapter.java
+ com.example.myapplication.TravelLocationsAdapter
+ com.example.myapplication.TravelLocationsAdapter$TravelLocationViewHolder
+com/example/myapplication/IntroductoryActivity.java
+ com.example.myapplication.IntroductoryActivity
+ com.example.myapplication.IntroductoryActivity$1
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+ com.example.myapplication.MainActivity$2
+com/example/myapplication/ProfileFragment.java
+ com.example.myapplication.ProfileFragment
+ com.example.myapplication.ProfileFragment$ScreenSliderPagerAdapter
+com/example/myapplication/SliderItem.java
+ com.example.myapplication.SliderItem
+com/example/myapplication/SettingsFragment.java
+ com.example.myapplication.SettingsFragment
+com/example/myapplication/SliderAdapter.java
+ com.example.myapplication.SliderAdapter
+ com.example.myapplication.SliderAdapter$1
+ com.example.myapplication.SliderAdapter$SliderViewHolder
+com/example/myapplication/AboutFragment.java
+ com.example.myapplication.AboutFragment
+ com.example.myapplication.AboutFragment$1
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/ProfileFragment2.java
+ com.example.myapplication.ProfileFragment2
+com/example/myapplication/TravelLocation.java
+ com.example.myapplication.TravelLocation
+com/example/myapplication/ProfileFragment3.java
+ com.example.myapplication.ProfileFragment3
+com/example/myapplication/UploadFragment.java
+ com.example.myapplication.UploadFragment
+ com.example.myapplication.UploadFragment$1
+ com.example.myapplication.UploadFragment$1$1
+ com.example.myapplication.UploadFragment$1$2
+com/example/myapplication/Upload_Activity.java
+ com.example.myapplication.Upload_Activity
+ com.example.myapplication.Upload_Activity$1
+ com.example.myapplication.Upload_Activity$1$1
+ com.example.myapplication.Upload_Activity$1$2
+com/example/myapplication/MonumentsFragment.java
+ com.example.myapplication.MonumentsFragment
+ com.example.myapplication.MonumentsFragment$1

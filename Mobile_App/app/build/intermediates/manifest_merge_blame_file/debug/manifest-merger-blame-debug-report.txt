@@ -1,0 +1,99 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:5:5-68
+11-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:5:22-65
+12
+13    <uses-feature android:name="android.hardware.type.watch" />
+13-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:7:5-64
+13-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:7:19-61
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:9:5-67
+15-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:9:22-64
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:11:5-80
+17-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:11:22-77
+18
+19    <application
+19-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:13:5-43:19
+20        android:allowBackup="true"
+20-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:14:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.1] C:\Users\leafl\.gradle\caches\transforms-2\files-2.1\83f348dd4ae3e574df436f447da8f006\core-1.3.1\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:15:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:16:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:17:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:18:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.MyApplication"
+29-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:19:9-51
+30        android:usesCleartextTraffic="true" >
+30-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:20:9-44
+31
+32        <!--
+33               Set to true if your app is Standalone, that is, it does not require the handheld
+34               app to run.
+35        -->
+36        <meta-data
+36-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:27:9-29:36
+37            android:name="com.google.android.wearable.standalone"
+37-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:28:13-66
+38            android:value="true" />
+38-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:29:13-33
+39
+40        <activity android:name="com.example.myapplication.IntroductoryActivity" >
+40-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:30:10-36:21
+40-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:30:20-56
+41            <intent-filter>
+41-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:31:14-35:30
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:32:18-70
+42-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:32:26-67
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:34:18-78
+44-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:34:28-75
+45            </intent-filter>
+46        </activity>
+47        <activity android:name="com.example.myapplication.Upload_Activity" />
+47-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:38:9-53
+47-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:38:19-50
+48        <activity android:name="com.example.myapplication.HomeActivity" />
+48-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:39:9-50
+48-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:39:19-47
+49        <activity android:name="com.example.myapplication.MainActivity" >
+49-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:40:9-42:20
+49-->C:\Users\leafl\Desktop\Apps\Navigation_drawer\app\src\main\AndroidManifest.xml:40:19-47
+50        </activity>
+51
+52        <provider
+52-->[com.squareup.picasso:picasso:2.71828] C:\Users\leafl\.gradle\caches\transforms-2\files-2.1\94edc4061f777f04cd90f8de61ee9f10\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+53            android:name="com.squareup.picasso.PicassoProvider"
+53-->[com.squareup.picasso:picasso:2.71828] C:\Users\leafl\.gradle\caches\transforms-2\files-2.1\94edc4061f777f04cd90f8de61ee9f10\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+54            android:authorities="com.example.myapplication.com.squareup.picasso"
+54-->[com.squareup.picasso:picasso:2.71828] C:\Users\leafl\.gradle\caches\transforms-2\files-2.1\94edc4061f777f04cd90f8de61ee9f10\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+55            android:exported="false" />
+55-->[com.squareup.picasso:picasso:2.71828] C:\Users\leafl\.gradle\caches\transforms-2\files-2.1\94edc4061f777f04cd90f8de61ee9f10\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+56    </application>
+57
+58</manifest>
