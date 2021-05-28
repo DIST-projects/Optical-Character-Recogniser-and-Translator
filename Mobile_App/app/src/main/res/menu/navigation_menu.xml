@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/nav_bg_1">
+
+    <item android:id="@+id/menuProfile"
+        android:icon="@drawable/profile"
+        android:title="@string/dashboard" />
+
+
+    <item android:id="@+id/menuMonuments"
+        android:icon="@drawable/monument"
+        android:title="@string/famous_monuments" />
+    <item android:id="@+id/menuUpload"
+        android:icon="@drawable/upload"
+        android:title="@string/upload_and_receive" />
+
+
+    <item android:title="@string/others">
+        <menu>
+
+            <item android:id="@+id/menuHelp"
+                android:icon="@drawable/help"
+                android:title="@string/help" />
+            <item android:id="@+id/menuAbout"
+                android:icon="@drawable/about"
+                android:title="@string/about_us" />
+
+         </menu>
+     </item>
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/menuProfile">
+    <fragment
+        android:id="@+id/menuProfile"
+        android:name="com.example.myapplication.ProfileFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/menuMonuments"
+        android:name="com.example.myapplication.MonumentsFragment"
+        android:label="Monuments"
+        tools:layout="@layout/fragment_monuments" />
+    <fragment
+        android:id="@+id/menuSettings"
+        android:name="com.example.myapplication.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/menuAbout"
+        android:name="com.example.myapplication.AboutFragment"
+        android:label="About Us"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/menuHelp"
+        android:name="com.example.myapplication.HelpFragment"
+        android:label="Help Section"
+        tools:layout="@layout/fragment_help" />
+    <activity
+        android:id="@+id/menuUpload"
+        android:name="com.example.myapplication.Upload_Activity"
+        android:label="Upload_Activity"
+        tools:layout="@layout/activity_upload_" />
+</navigation>

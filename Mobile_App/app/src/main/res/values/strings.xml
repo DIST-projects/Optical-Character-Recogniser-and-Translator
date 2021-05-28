@@ -1,0 +1,43 @@
+<resources>
+ <string name="about_page_description" translatable="false">We the students at Anna University have made this app for the purpose of serving tourists a pleasant
+experience during their stay at India. All the test and experminetations for the app were carried
+out on a real time basis and hence is more feasible for real-life situations. New Additions and
+updates are to come in the near future. Until then, Enjoy!</string>
+
+
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_website">Visit our website</string>
+
+
+    <string name="app_name">CIP Project</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="settings">Settings</string>
+    <string name="famous_monuments">Famous Monuments</string>
+    <string name="upload_and_receive">Upload and Translate</string>
+    <string name="help">Help</string>
+    <string name="others">Others</string>
+    <string name="levi_ackermann">Levi Ackermann</string>
+    <string name="verified">Verified</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="man">Man</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favourite</string>
+    <string name="hello_levi">Hello, Levi</string>
+    <string name="where_are_we">Where are we</string>
+    <string name="going_today">going today?</string>
+    <string name="lmao">LMAO</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="title_activity_introductory_">Introductory_Activity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_introductory">IntroductoryActivity</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="help_us">Help Section</string>
+</resources>
